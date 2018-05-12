@@ -12,6 +12,8 @@ creator:
     gutenberg_agent_id: '33326'
     url: http://www.gutenberg.org/2009/agents/33326
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/35567#A-Course-of-Lectures-on-the-Principles-of-Domestic-Economy-and-Cookery
 gutenberg_bookshelf: Technology
 gutenberg_issued: '2011-03-13'
 gutenberg_type: Text
